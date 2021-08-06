@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Nimisha Shaji
+## Kochuparambil H
+### Pallom p.o Kottayam
+#### Kristu Jyoti College 
+##### BCA
+###### Semester 2

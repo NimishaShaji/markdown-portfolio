@@ -1,1 +1,1 @@
-Yaktocat](https://octodex.github.com/images/yaktocat alt-Nimisha.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
